@@ -1,0 +1,27 @@
+.section2 {
+  border: 2px solid #b6950e;
+  padding: 16px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.section2 textarea {
+  width: 100%;
+  min-height: 80px;
+  padding: 8px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.section2 button {
+  padding: 8px 16px;
+  background-color: #6d5438;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.section2 button:hover {
+  background-color: #b45309;
+}

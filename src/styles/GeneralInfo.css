@@ -1,0 +1,30 @@
+.section3 {
+  border: 2px solid #e46d6d;
+  padding: 16px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.section3 h2 {
+  margin-bottom: 12px;
+}
+
+.section3 input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.section3 button {
+  padding: 8px 16px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.section3 button:hover {
+  background-color: #1e40af;
+}
